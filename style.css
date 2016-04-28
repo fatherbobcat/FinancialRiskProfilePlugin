@@ -1,0 +1,97 @@
+h2{
+text-align: center; 
+color: white; 
+background-color: #484848;
+float:left;
+width:100%;
+}
+
+body{
+background-color:#808080;
+}
+
+.panel{
+margin-bottom:2%;
+}
+
+.gauge{
+color: white; 
+background-color: darkgrey; 
+padding: 8px 8px 8px 8px; 
+margin-left: 15px; 
+margin-right: 15px; 
+margin-bottom: 1px; 
+float:left;
+}
+
+.gauge1{
+color: white; 
+background-color: darkgrey; 
+padding: 8px 8px 8px 8px; 
+margin-left: 10%; 
+margin-right: 10%; 
+margin-bottom: 1px; 
+float:left;
+}
+
+.gaugeinner{
+height: 160px; 
+width: 220px; 
+background-color: lightgrey;
+}
+
+.gaugehidden{
+display:none;
+float:left;
+}
+
+.header1{
+float:none;
+}
+
+.selectionsteps{
+background-color: lightgrey;
+color:maroon;
+font-size:12pt;
+font-family:Arial Rounded MT Bold;
+}
+
+.steplink{
+color:#4682b8;
+font-size:9pt;
+cursor:pointer;
+cursor:hand;
+}
+
+.steplink:hover{
+font-weight:bold;
+color:#165ad1;
+}
+
+.seletionoption{
+font-family:Calibri;
+}
+
+#graph{
+float:left; 
+width:60%; 
+background-color:#808080; 
+padding-bottom:2%
+}
+
+#scenario{
+background-color:#808080; 
+height:50%;
+width:40%;
+float:left;
+}
+
+#scenariowrapper{
+color: white; 
+background-color:#808080;
+}
+
+#soInvest, #soLTD, #soE, #soBSG{
+display:none;
+}
+
